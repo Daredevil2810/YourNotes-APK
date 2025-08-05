@@ -23,13 +23,6 @@ A smart, modern, and beautiful notes app for Android with themes, reminders, pin
 
 ---
 
-## 🖼 Screenshots
-
-| Home | View Note | Add Note |
-|------|-----------|----------|
-| ![Home](screenshots/Screenshot_2025-08-05-12-58-23-986_com.example.ainotes.jpg) | ![View](screenshots/view_note.png) | ![Add](screenshots/add_note.png) |
-
----
 
 ## 🔐 Permissions
 
