@@ -19,7 +19,7 @@ A smart, modern, and beautiful notes app for Android with themes, reminders, pin
 
 ## 📲 Download
 
-👉 [Click here to download APK](./YourNotes_v1.0.apk)
+👉 [https://github.com/Daredevil2810/YourNotes-APK/releases/download/v1.0/YourNotes.apk](./YourNotes_v1.0.apk)
 
 ---
 
