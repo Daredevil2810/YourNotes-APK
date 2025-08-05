@@ -3,7 +3,9 @@ A beautiful note-taking app for Android with themes, reminders and there is also
 
 # 📘 YourNotes
 
-A smart, modern, and beautiful notes app for Android with themes, reminders, pinning, and text-to-speech features.
+🚀 Excited to share my new project – YourNotes 
+
+It’s a smart Android Notes app built entirely with Kotlin & Android Studio – now live on GitHub 🎉
 
 ## ✨ Features
 
