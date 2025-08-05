@@ -38,4 +38,4 @@ This app does not collect any personal data.
 
 ## 💬 Feedback
 
-Feel free to [open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or contact me at: `your-email@example.com`
+Feel free to [open an issue](https://github.com/Daredevil2810/YourNotes-APK/issues)
